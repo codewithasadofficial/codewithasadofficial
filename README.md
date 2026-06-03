@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **asadwebdev1@gmail.com**
 
-- 📄 Know about my experiences I’ve a strong experience in web development, Wordpress developer, Wocommerce, Website Designing and Blogger](I’ve a strong experience in web development, Wordpress developer, Wocommerce, Website Designing and Blogger.
+- 📄 Know about my experiences I’ve a strong experience in web development, Wordpress developer, Wocommerce, Website Designing and Blogger
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
