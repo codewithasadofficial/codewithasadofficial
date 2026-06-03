@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI ROBOTICS, and AI Engineering**
 
-- 👨‍💻 All of my projects are available at [Humanexbot.com](Humanexbot.com)
+- 👨‍💻 My Main project is available at [Humanexbot.com](Humanexbot.com)
 
 - 📝 I regularly write articles on [Greenlinetrain.com](Greenlinetrain.com)
 
