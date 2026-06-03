@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
 <h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithasadofficial" alt="codewithasadofficial" /></a> </p>
 
 - 🔭 I’m currently working on [Humanex Bot V5.0](https://github.com/codewithasadofficial/Humanex_Version_5_Advanced_Simulation_Traffic)
 
@@ -19,7 +18,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/codewithasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codewithasad" height="30" width="40" /></a>
 <a href="https://instagram.com/asad_rajpoot_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asad_rajpoot_r" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@codewithasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codewithasad" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codewithasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codewithasad" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
